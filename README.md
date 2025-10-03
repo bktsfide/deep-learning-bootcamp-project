@@ -23,4 +23,4 @@ CNN (Convolutional Neural Network) kullanarak "Dogs vs. Cats" veri seti üzerind
 - Görselleştirme ile modelin sınıflandırma bölgeleri analiz edildi
 
 ## Kaggle Notebook Linki
-[Kaggle Notebook]
+[Kaggle Notebook]https://www.kaggle.com/code/fidelyabekta/add-data/edit/run/265564961
